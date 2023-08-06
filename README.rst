@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+LinkTransformer
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+The git repo for LinkTransformer's Read the Docs: https://readthedocs.org/projects/linktransformer
